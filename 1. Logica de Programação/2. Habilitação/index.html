@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    // 7.  Declare uma variável chamada `mensagemDeErro` 
+    // e atribua a ela o valor "Erro! Preencha todos os campos" 
+    // Agora exiba um alerta com o valor da variável `mensagemDeErro`.  
+    // 8.  Use um prompt para perguntar o nome do usuário e armazená-lo na variável `nome`.
+    // 9.  Peça ao usuário para digitar sua idade usando um prompt e armazene-a na variável `idade`.
+    // 10. Agora, caso a idade seja maior ou igual que 18,
+    // exiba um alerta com a mensagem "Pode tirar a habilitação!".
+
+    let mensagemDeErro = 'Erro! Preencha todos os campos.';
+    let nome = prompt('Digite seu nome');
+    let idade = prompt('Digite sua idade');
+
+    if(idade >= 18) {   
+        alert('Pode tirar sua habilitação!');
+    } else if (idade < 18 && idade >= 1) {
+        alert('Não pode tirar a habilitação')
+    } else {
+        alert(mensagemDeErro)
+    }
+
+    </script>
+</body>
+</html>
