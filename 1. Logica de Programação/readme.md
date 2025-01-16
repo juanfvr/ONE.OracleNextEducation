@@ -1,5 +1,5 @@
 # 1. Formação: Iniciante em Programação G8 - ONE
-Alguns dos desafios referentes a primeira formação: Lógica de Programaçao, do curso ONE - Oracle Next Education
+Alguns dos desafios referentes a primeira formação: Lógica de Programaçao.
 
 [Exercício 1 - Vendas](./1.%20Vendas/) \
 [Exercício 2 - Habilitação](./2.%20Habilitação/) \
