@@ -1,7 +1,7 @@
 # 1. Formação: Iniciante em Programação G8 - ONE
 Alguns dos desafios referentes a primeira formação: Lógica de Programaçao, do curso ONE - Oracle Next Education
 
-[Exercício 1 - Vendas](./1.%20Vendas/)
+[Exercício 1 - Vendas](./1.%20Vendas/) \
 [Exercício 2 - Habilitação](./2.%20Habilitação/)
 [Exercício 3 - Dia da Semana](./3.%20Dia%20da%20Semana/)
 [Exercício 4 - Positivo ou Negativo](./4.%20Positivo%20ou%20Negativo/)
