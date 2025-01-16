@@ -9,6 +9,6 @@ Alguns dos desafios referentes a primeira formação: Lógica de Programaçao, d
 [Exercício 6 - Saldo](./6.%20Saldo/) \
 [Exercício 7 - Contador](./7.%20Contador/) \
 [Exercício 8 - Contagem Regressiva & Progressiva](./8.%20Contagem%20Regressiva%20&%20Progressiva/) \
-[Exercício 9 - Número Aleatório](./9.%20Número%20Aleatório/) \
+[Exercício 9 - Número Aleatório](./9.%20Número%20Aleatório/)
 
 
